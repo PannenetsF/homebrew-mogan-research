@@ -1,0 +1,7 @@
+1. add this tap
+
+brew tap PannenetsF/mogan-research
+
+2. install the cask package
+
+brew install --cask PannenetsF/mogan-research/mogan-research
