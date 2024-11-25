@@ -2,8 +2,8 @@ cask "mogan-research" do
   arch arm: "-arm"
 
   version "1.2.9.7-rc4"
-  sha256 arm:   "74cb464ddde67d8c717c87362d5ad4b29c095be19de85ee9363f6b459ad05049",
-         intel: "25bc5fc683bcc60ee720a5995b8ad5990fd702365baea5e7d0590973675cf746"
+  sha256 arm:   "f7458ec7e6c184330dfa6f0fa4cf41614d90f83683405df2e6452cccce73f48f",
+         intel: "4727a5889cf289e807b097787a97223a325abfb7d922ab5ff6f2bf706dd33e67"
 
   url "https://github.com/XmacsLabs/mogan/releases/download/v#{version}/MoganResearch-v#{version}#{arch}.dmg",
       verified: "github.com/XmacsLabs/mogan/releases/download/"
